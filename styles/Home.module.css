@@ -1,0 +1,59 @@
+.Home {
+    font-size: 90%;
+}
+
+.Home > nav > div > a {
+    font-size: 110%;
+    font-weight: bold;
+    color: #df6560;
+}
+
+.Home > nav > div > a:hover {
+    color: #f6bf76;
+}
+
+.Home > nav > div > ul > li > a {
+    color: #df6560;
+}
+
+.Home > nav > div > ul > li > a:hover {
+    color: #f6bf76;
+}
+
+.container > div {
+    width: 60%;
+    margin-top: 100px;
+}
+
+.container > div > h1 {
+    font-size: 80px;
+    font-weight: bolder;
+    font-family: Helvetica, sans-serif;
+}
+
+.container > div > a {
+    color: #df6560;
+    font-size: 120%;
+}
+
+.container > div > a:hover {
+    color: #f6bf76;
+}
+
+@media screen and (max-width: 480px) {
+    .container > div {
+        width: 100%;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .container > div > h1 {
+        font-size: 50px;
+    }
+
+    .Home > nav > div {
+        justify-content: center !important;
+    }
+  }
