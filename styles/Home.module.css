@@ -3,7 +3,7 @@
 .Main {
     padding-top: 10px;
     height: 100vh;
-    background: url("../pages/Components/Media/bg.jpg");
+    background: url("bg.jpg");
     background-position: center;
     font-family: "Space Mono", monospace;
 }
