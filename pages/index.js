@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 import Nav from './Components/Nav'
 import HomeContent from './Components/HomeContent'
 import Particles from 'react-particles-js';
-import particlesConfig from './Components/particlesConfig';
+import particlesConfig from '../lib/particlesConfig';
 
 export default function Home() {
   return (
@@ -23,8 +23,6 @@ export default function Home() {
         <Nav />
         <HomeContent />
       </main>
-
-
     </div>
   )
 }
