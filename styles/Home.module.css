@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
 .Main {
     height: 100vh;
     background: url("../pages/Components/Media/bg.jpg");
+    background-position: center;
+    font-family: "Space Mono", monospace;
 }
 
 .Home {
@@ -15,13 +19,16 @@
 
 .Home > nav > div > a:hover {
     color: #f6bf76;
+    text-decoration: underline wavy;
 }
 
 .Home > nav > div > ul > li > a {
+    font-weight: bold;
     color: #df6560;
 }
 
 .Home > nav > div > ul > li > a:hover {
+    text-decoration: underline wavy;
     color: #f6bf76;
 }
 
@@ -33,7 +40,6 @@
 .container > div > h1 {
     font-size: 80px;
     font-weight: bolder;
-    font-family: Helvetica, sans-serif;
 }
 
 .container > div > a {
@@ -43,6 +49,7 @@
 
 .container > div > a:hover {
     color: #f6bf76;
+    text-decoration: underline wavy;
 }
 
 @media screen and (max-width: 580px) {

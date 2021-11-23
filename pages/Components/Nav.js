@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function Nav() {
 
-  const web_name = "<bunleaps/>"
+  const web_name = "</${bunleaps}/>"
 
   return (
     <div className={styles.Home}>
