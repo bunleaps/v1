@@ -1,15 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 
 .Main {
+    padding-top: 10px;
     height: 100vh;
     background: url("../pages/Components/Media/bg.jpg");
     background-position: center;
     font-family: "Space Mono", monospace;
 }
 
-.Home {
+/* .Home {
     font-size: 90%;
-}
+} */
 
 .Home > nav > div > a {
     font-size: 110%;
@@ -34,7 +35,8 @@
 
 .container > div {
     width: 60%;
-    margin-top: 100px;
+    margin-top: 80px;
+    position: relative;
 }
 
 .container > div > h1 {
