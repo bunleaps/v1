@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 import Nav from './Components/Nav'
 import HomeContent from './Components/HomeContent'
 import Particles from 'react-particles-js';
-import particlesConfig from './config/particlesConfig';
+import particlesConfig from './Components/particlesConfig';
 
 export default function Home() {
   return (
