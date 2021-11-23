@@ -1,3 +1,7 @@
+.Main {
+    height: -webkit-fill-available;
+}
+
 .Home {
     font-size: 90%;
 }

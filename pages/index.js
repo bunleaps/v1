@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/blossom.ico" />
       </Head>
 
-      <main>
+      <main className={styles.Main}>
         <Nav />
         <HomeContent />
       </main>
