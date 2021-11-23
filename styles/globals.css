@@ -2,8 +2,6 @@
 
 html,
 body {
-  height: -webkit-fill-available;
-  background: url("../pages/Components/Media/bg.jpg");
   padding: 0;
   margin: 0;
   font-family: 'Inter', sans-serif !important;
