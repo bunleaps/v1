@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Bunleap.</h1>
-<p><b>🚀 Welcome to my page!</b> </br> I'm 16 years old. I am now obsessed with Javascript and work with it for most of my coding time. Currently I got into a whole new world called Python and have been in love with it. </p>
+<p><b>🚀 Welcome to my page!</b> </br> I'm 17 years old. I am now obsessed with Javascript and work with it for most of my coding time. Currently I got into a whole new world called Python and have been in love with it. </p>
 <h3>💻 Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
